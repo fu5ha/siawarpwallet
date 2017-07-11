@@ -1,0 +1,31 @@
+{
+  "name": "siawarpwallet",
+  "version": "0.1.0",
+  "description": "Open Source JavaScript Client-Side Sia Wallet Generator Using Argon2",
+  "dependencies": {
+    "brew": "*",
+    "buffer": "^4.9.1",
+    "browserify": "*",
+    "colors": "*",
+    "iced-coffee-script": "^1.7.1-f",
+    "iced-error": "*",
+    "iced-runtime": "^1.0.1",
+    "iced-test": "*",
+    "iced-utils": ">=0.1.1",
+    "icsify": "*",
+    "triplesec": "keybase/triplesec#header_v3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/termhn/siawarpwallet"
+  },
+  "keywords": [
+    "sia siacoin address wallet generator brainwallet"
+  ],
+  "author": "Gray Olson",
+  "license": "BSD 3-Clause",
+  "bugs": {
+    "url": "https://github.com/termhn/siawarpwallet/issues"
+  },
+  "false": {}
+}
